@@ -1,1 +1,3 @@
-2.phpssssssssssssssssssssssssssssss
+<?php
+
+echo '2.php';
